@@ -1,4 +1,4 @@
 # databricks-sql-desvendando.
 
 
-Autor: Roberto
+Autor: Roberto. 13/12/2022
