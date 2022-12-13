@@ -1,1 +1,4 @@
-# databricks-sql-desvendando
+# databricks-sql-desvendando.
+
+
+Autor: Roberto
